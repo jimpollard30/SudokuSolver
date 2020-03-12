@@ -4,11 +4,8 @@ Solves Sudoku.  Like it says on the tin.
 Reads a text file representation of a Sudoku puzzle, which should be 9 rows of text.  Each row consists of digits 1 through 9 or 'x' for the blank cells in the puzzle.  Example:
 
 x,2,x,5,x,1,x,9,x
-
 8,x,x,2,x,3,x,x,6
-
 x,3,x,x,6,x,x,7,x
-
 x,x,1,x,x,x,6,x,x
 
 5,4,x,x,x,x,x,1,9
